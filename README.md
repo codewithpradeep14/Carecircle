@@ -479,6 +479,8 @@ AI-generated information may contain errors and should not be treated as a medic
 If you are experiencing a medical emergency, contact your local emergency medical service immediately.
 
 ---
+## Images 
+![image alt](https://github.com/codewithpradeep14/Carecircle/blob/2ddef81e03b1c9debe57cbbf819f57fcffb4a965/Billing%20plans.png)
 
 ## 📌 Important Notes
 
